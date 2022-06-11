@@ -1,0 +1,15 @@
+* {
+  font-family: 'Nunito', sans-serif;
+  box-sizing: border-box;
+  
+}
+
+
+h2,
+h4 {
+  text-transform: uppercase;
+}
+
+span {
+  margin-bottom: 1.5rem;
+}
